@@ -1,6 +1,7 @@
 # Author: Anthony Segedi
 # NOTE: you will need to run the following line to allow scripts to run on your system (needs to be done in administrator mode)
 # Set-ExecutionPolicy: Remote-Signed
+# after that you can run the script using './unitTest.ps1`
 
 # progDir: the java source files directory (typically src). If blank, it is prompted for
 $progDir = "./src"
